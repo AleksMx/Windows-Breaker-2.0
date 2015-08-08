@@ -10,7 +10,6 @@ for great description of this vulnerability.
   
 Application author: Alexandr Mx
   
-
 # Example
 First of all build and run application on the system where you forgot your administrator password
 
