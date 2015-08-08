@@ -7,6 +7,9 @@ Many thanks:
  - Tavis Ormandy <taviso () cmpxchg8b com>
  - progmboy <programmeboy () gmail com>
 for great description of this vulnerability.
+  
+Application author: Alexandr Mx
+  
 
 # Example
 First of all build and run application on the system where you forgot your administrator password
